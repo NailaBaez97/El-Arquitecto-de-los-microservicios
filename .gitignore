@@ -1,3 +1,6 @@
 venv/
 .vscode/
 comunicacion.txt
+mascotas.db
+adopciones.db
+usuarios.db
